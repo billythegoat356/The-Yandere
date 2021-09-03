@@ -6,14 +6,14 @@
 
 -----
 
-### <p align="center">🎭 The Yandere 🎭</p>
+### <p align="center">🎱 The Yandere 🎱</p>
 
 <br><br>
 <p align="center">
 <strong>
-text
+The Yandere is a program written in Python3,
 <br>
-text
+allowing you to create your own beautiful CLI tool.
 </strong>
 </p>
 <br>
@@ -23,11 +23,11 @@ text
 ### <p align="center">⭐ Features ⭐</p>
 
 <br><br>
-<strong>+ plus</strong>
+<strong>+ Fast</strong>
 <br>
-<strong>+ plus</strong>
+<strong>+ Easy to use</strong>
 <br>
-<strong>+ plus</strong>
+<strong>+ Allow you to choose your own colors with <a href="https://github.com/billythegoat356/pyfade">pyfade</a>.</strong>
 <br>
 
 <p align="right">
@@ -35,11 +35,9 @@ text
 </p>
 
 <br>
-<strong>- minus</strong>
+<strong>- You have to create functions with arguments for your tool</strong>
 <br>
-<strong>- minus</strong>
-<br>
-<strong>- minus</strong>
+<strong>- You have to choose the font name for the <a href="https://pypi.org/project/art/">ascii art</a>.</strong>
 <br><br>
 
 -----
@@ -49,8 +47,8 @@ text
 <p align="center"><strong><i>Feel free to make a pull request on this repository to submit any idea!</i></strong</p>
 
 <br><br>
-* idea
-* idea
+* Allow more customization
+* Add more colors
 <br><br>
 
 -----
