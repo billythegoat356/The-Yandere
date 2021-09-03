@@ -46,7 +46,7 @@ text
 
 ### <p align="center">💡 Ideas 💡</p>
 
-<p align="center"><strong>Feel free to make a pull request on this repository to submit any idea!</strong</p>
+<p align="center"><strong><i>Feel free to make a pull request on this repository to submit any idea!</i></strong</p>
 
 <br><br>
 * idea
