@@ -27,7 +27,7 @@ allowing you to create your own beautiful CLI tool.
 <br>
 <strong>+ Easy to use</strong>
 <br>
-<strong>+ Allow you to choose your own colors with <a href="https://github.com/billythegoat356/pyfade">pyfade</a>.</strong>
+<strong>+ Allow you to choose your own colors with <a href="https://github.com/billythegoat356/pyfade">pyfade</a></strong>
 <br>
 
 <p align="right">
@@ -37,7 +37,7 @@ allowing you to create your own beautiful CLI tool.
 <br>
 <strong>- You have to create functions with arguments for your tool</strong>
 <br>
-<strong>- You have to choose the font name for the <a href="https://pypi.org/project/art/">ascii art</a>.</strong>
+<strong>- You have to choose the font name for the <a href="https://pypi.org/project/art/">ascii art</a></strong>
 <br><br>
 
 -----
