@@ -35,7 +35,7 @@ allowing you to create your own beautiful CLI tool.
 </p>
 
 <br>
-<strong>- You have to create functions with arguments for your tool</strong>
+<strong>- Doesn't support arguments in functions</strong>
 <br>
 <strong>- You have to choose the font name for the <a href="https://pypi.org/project/art/">ascii art</a></strong>
 <br><br>
@@ -47,6 +47,7 @@ allowing you to create your own beautiful CLI tool.
 <p align="center"><strong><i>Feel free to make a pull request on this repository to submit any idea!</i></strong</p>
 
 <br><br>
+* Add arguments for functions
 * Allow more customization
 * Add more colors
 <br><br>
