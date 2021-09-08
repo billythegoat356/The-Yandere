@@ -134,7 +134,7 @@ def main():
     test = content.splitlines()
     for a in test:
         if not a.strip():
-            test.remove("")
+            test.remove(a)
 
     for l in test:
         if l.strip() and not l.startswith(" " * 4) and ("def" not in l and "import" not in l) or "def" in l and "()" not in l:
